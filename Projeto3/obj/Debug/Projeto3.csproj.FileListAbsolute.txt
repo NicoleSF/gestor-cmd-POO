@@ -1,0 +1,7 @@
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+D:\Desktop\CarreiraUnica\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
